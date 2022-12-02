@@ -1,0 +1,10 @@
+#Tomcat publish data
+#Tue Nov 29 22:20:17 IST 2022
+org.eclipse.jst.jee.server\:Signup=C\:\\apache-tomcat-9.0.68\\apache-tomcat-9.0.68\\wtpwebapps\\Signup
+org.eclipse.jst.jee.server\:Free_code=C\:\\apache-tomcat-9.0.68\\apache-tomcat-9.0.68\\wtpwebapps\\Free_code
+org.eclipse.jst.jee.server\:Dipankar_Web_Project=C\:\\apache-tomcat-9.0.68\\apache-tomcat-9.0.68\\wtpwebapps\\Dipankar_Web_Project
+org.eclipse.jst.jee.server\:Abinash_ProjectWeb=C\:\\apache-tomcat-9.0.68\\apache-tomcat-9.0.68\\wtpwebapps\\Abinash_ProjectWeb
+org.eclipse.jst.jee.server\:FSD\ with\ Java=C\:\\apache-tomcat-9.0.68\\apache-tomcat-9.0.68\\wtpwebapps\\FSD with Java
+org.eclipse.jst.jee.server\:Registration_form=C\:\\apache-tomcat-9.0.68\\apache-tomcat-9.0.68\\wtpwebapps\\Registration_form
+org.eclipse.jst.jee.server\:LoginDemo=C\:\\apache-tomcat-9.0.68\\apache-tomcat-9.0.68\\wtpwebapps\\LoginDemo
+org.eclipse.jst.j2ee.server\:mysql-connector-java-5.1.23-bin=C\:\\apache-tomcat-9.0.68\\apache-tomcat-9.0.68\\wtpwebapps\\Dipankar_Web_Project\\WEB-INF\\lib\\mysql-connector-java-5.1.23-bin.jar

@@ -1,0 +1,13 @@
+package admin.login.database;
+
+public class LoginDao {
+	
+	private String dbUrl = "jdbc:mysql://localhost:3306/userdb";
+	private String dbUname = "root" ;
+	private String dbPass = "";
+	private String dbDriver = "com.mysql.cj.jdbc.Driver";
+	
+	
+	
+
+}

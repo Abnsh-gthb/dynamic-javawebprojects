@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>LOGIN Page</title>
+</head>
+<body>
+<center>
+<form action="EOcheck" method="get">
+Enter No: <input type=text name t1>
+<br><br>
+<input type=submit value="Chech Even/odd">
+</form>
+</center>
+</body>
+</html>
